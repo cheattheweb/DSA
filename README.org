@@ -3,11 +3,11 @@
 #+DESCRIPTION: All about data structures and Algorithms
 #+OPTIONS: toc:nil num:nil
 * Basic things to know
-** Data Structure
-** Algorithm
-** Time Complexity
-** Space Complexity
-** Code Testing
+- Data Structure
+- Algorithm
+- Time Complexity
+- Space Complexity
+- Code Testing
 * Algorithms
 ** Searching Algorithms
 - Linear Search
