@@ -1,0 +1,30 @@
+#+TITLE: Basic Data Structure and Algorithm
+#+AUTHOR: Arka Barua
+#+DESCRIPTION: All about data structures and Algorithms
+#+OPTIONS: toc:nil num:nil
+* Basic things to know
+** Data Structure
+** Algorithm
+** Time Complexity
+** Space Complexity
+** Code Testing
+* Algorithms
+** Searching Algorithms
+- Linear Search
+- Binary Search
+** Sorting Algorithms
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Counting Sort
+- Quick Sort
+* Data Structures
+- Linked List
+- Stack
+- Queue
+- Graph
+- Tree
+- Binary Search Tree - BST
+- Heap
+- Hash table
